@@ -1,0 +1,16 @@
+{
+  "name": "𝐌𝐈𝐍𝐈𝐗 𝐌𝐃",
+  "description": "For deploying 𝐌𝐈𝐍𝐈𝐗 𝐌𝐃.",
+  "repository": "https://github.com/montanatech1/MINIX-MD",
+  "build": {
+    "commands": {
+      "install": "yarn install",
+      "start": "yarn start"
+    }
+  },
+  "envs": {
+    "SESSION_ID": {
+      "description": "Put Your Session Id"
+    }
+  }
+}
