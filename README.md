@@ -18,17 +18,13 @@
     <img src="https://img.shields.io/github/watchers/montanatech1/MINIX-MD?label=Watching&style=flat&color=007bff" alt="Watching" style="transform: scale(1.4); margin: 5px;"/>
   </a>
     
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=HUNTER-XMD-V5.0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=MINIX-MD-" alt="Typing SVG" /></a>
   </p>
 
 <div align="center">
   <img src="https://files.catbox.moe/dzy6tb.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
-
-_MUSIC,SESSION,DEPLOYING,CHANNEL AND OWNER WEB_
-
-<a href='https://hunter-xmd-web.vercel.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
-                                                            
+                                                          
 ### <h4 align="">. GET SESSION 1</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
